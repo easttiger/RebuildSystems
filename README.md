@@ -2,6 +2,7 @@
 Scripts collection for reinstall/migrate Win/Linux systems including frequently used application softwares. This is written as a private project.
 ### Find/Prepare Windows Install Media
 Determine partitions
+
 Determine Account ID and Password
 
 ### Network setup
