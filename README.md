@@ -9,27 +9,27 @@ Determine Account ID and Password
 Printers
 
 ### Install Application Softwares
-Anti-Virus
-Dropbox
-Firefox
+Anti-Virus/
+Dropbox/
+Firefox/
 Google Pinyin
 
-Office
+Office/
 Adobe
 
 GitHub Desktop
 
-MiKTeX
-TexStudio
+MiKTeX/
+TexStudio/
 Lyx
 
-R
-RStudio
+R/
+RStudio/
 MATLAB
 
-Visual Studio 2013
+Visual Studio 2013/
 
-Python3
+Python3/
 PyCharm
 
 Cygwin
