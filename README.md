@@ -1,5 +1,6 @@
 # RebuildSystems
-Scripts collection for reinstall/migrate Win/Linux systems including frequently used application softwares. This is written as a private project.
+# This is written as a private project.
+Scripts collection for reinstall/migrate Win/Linux systems including frequently used application softwares. 
 ### Find/Prepare Windows Install Media
 Determine partitions
 
